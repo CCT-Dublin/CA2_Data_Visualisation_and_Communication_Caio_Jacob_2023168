@@ -1,0 +1,25 @@
+# Datasets (excluded per submission guidelines — do not commit raw data)
+*.xlsx
+*.xls
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local notes & Word drafts (submit AI declaration directly via Moodle)
+*.docx
+~$*.docx

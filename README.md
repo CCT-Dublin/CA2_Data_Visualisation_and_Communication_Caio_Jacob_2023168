@@ -27,9 +27,10 @@ This repository contains the Continuous Assessment 2 (CA2) project analysing tra
 
 ```text
 .
-├── CA2_Online_Retail_Analysis.ipynb   # Main Jupyter Notebook (analysis, EDA, dashboard)
-├── .gitignore                         # Excludes raw data and temporary/checkpoint files
-└── README.md                          # Project documentation and setup guide
+├── CA2_Online_Retail_Analysis.ipynb                 # Main Jupyter Notebook (analysis, EDA, dashboard)
+├── CA2_AI_Declaration_Caio_Jacob_2023168.docx       # CCT Assessment Cover Page & AI Fluency Declaration
+├── .gitignore                                       # Excludes raw data and temporary/checkpoint files
+└── README.md                                        # Project documentation and setup guide
 ```
 
 > **Note on Data:** Raw dataset files (`*.xlsx`) are intentionally excluded from version control in accordance with assessment guidelines. To execute the notebook locally, place `Online Retail.xlsx` in the repository root folder (or its parent directory).

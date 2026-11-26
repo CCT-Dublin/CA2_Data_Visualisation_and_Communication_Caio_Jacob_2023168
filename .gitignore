@@ -20,6 +20,5 @@ desktop.ini
 .vscode/
 .idea/
 
-# Local notes & Word drafts (submit AI declaration directly via Moodle)
-*.docx
+# Word temporary lock files
 ~$*.docx
